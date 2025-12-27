@@ -2,7 +2,7 @@
 THE Choptop Sawyer
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=lumberdean&color=950606&label=🔪">
+<img src="https://komarev.com/ghpvc/?username=lumberdean&color=89021c&label=🔪">
 </p>
   
 <p align="center">

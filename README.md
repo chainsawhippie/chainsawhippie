@@ -11,10 +11,9 @@ THE Choptop Sawyer
 
 
   <p align="center">
-     <img src="https://github.com/user-attachments/assets/bff7d311-9127-41ce-bc01-b7d3c4df5281" />
+     <img src="https://github.com/user-attachments/assets/5514617b-afbe-4e74-901a-65be53b34718" />
    </p>
    <p align="center">
-
 
 <p align="center">
 if u dont like me simply fuck off <3

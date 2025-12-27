@@ -9,9 +9,8 @@ THE Choptop Sawyer
 "You're My faaavvv..."
 
 
-
   <h6 align="center">
-     <img src="https://github.com/user-attachments/assets/5514617b-afbe-4e74-901a-65be53b34718" />
+     <img src="https://github.com/user-attachments/assets/6f3ec5f5-8702-488e-9c26-4902eacf0278" />
    </p>
    <h6 align="center">
 

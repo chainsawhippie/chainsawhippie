@@ -6,7 +6,7 @@ THE Johnny Sawyer
 </p>
   
 <h6 align="center">
-"You're My faaavvv..."
+"Y'know, i was actually kinda fond of that girl.. i didn't really wanna hurt her-.. but, as they say... family first y'know."
 
 
   <h6 align="center">

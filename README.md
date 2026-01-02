@@ -1,5 +1,5 @@
 <h6 align="center">
-THE Choptop Sawyer
+THE Johnny Sawyer
 
 <h6 align="center">
 <img src="https://komarev.com/ghpvc/?username=lumberdean&color=89021c&label=🔪">
@@ -10,7 +10,7 @@ THE Choptop Sawyer
 
 
   <h6 align="center">
-     <img src="https://github.com/user-attachments/assets/6f3ec5f5-8702-488e-9c26-4902eacf0278" />
+     <img src="https://github.com/user-attachments/assets/c108fea5-6c3d-4720-847c-e915aa8291dc" />
    </p>
    <h6 align="center">
 

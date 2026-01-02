@@ -2,7 +2,7 @@
 THE Johnny Sawyer
 
 <h6 align="center">
-<img src="https://komarev.com/ghpvc/?username=lumberdean&color=89021c&label=🔪">
+<img src="https://komarev.com/ghpvc/?username=lumberdean&color=795548&label=🔪">
 </p>
   
 <h6 align="center">
@@ -10,9 +10,10 @@ THE Johnny Sawyer
 
 
   <h6 align="center">
-     <img src="https://github.com/user-attachments/assets/c108fea5-6c3d-4720-847c-e915aa8291dc" />
+     <img src="https://github.com/user-attachments/assets/05fb0d58-3476-4cb7-85ca-5d4733deb8cb" />
    </p>
    <h6 align="center">
+
 
 <h6 align="center">
 if u dont like me simply fuck off <3

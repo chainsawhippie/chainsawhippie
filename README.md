@@ -1,16 +1,17 @@
 <h6 align="center">
-THE Johnny Sawyer
+THE Albert Wesker
 
 <h6 align="center">
 <img src="https://komarev.com/ghpvc/?username=lumberdean&color=795548&label=🔪">
 </p>
   
 <h6 align="center">
-"Y'know, i was actually kinda fond of that girl.. i didn't really wanna hurt her-.. but, as they say... family first y'know."
+"Chris, you make me proud, but of course you are one of MY men"
+
 
 
   <h6 align="center">
-     <img src="https://github.com/user-attachments/assets/05fb0d58-3476-4cb7-85ca-5d4733deb8cb" />
+     <img src="https://github.com/user-attachments/assets/005984ff-7dcf-4691-b6e9-dc7a421850c3" />
    </p>
    <h6 align="center">
 
